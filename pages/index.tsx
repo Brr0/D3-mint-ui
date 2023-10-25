@@ -210,11 +210,11 @@ export default function Home() {
           <Center>
               <Box
                 rounded={'lg'}
-                mt={-12}
+                mt={5}
                 pos={'relative'}>
                 <Image
                   rounded={'lg'}
-                  height={230}
+                  height={200}
                   objectFit={'cover'}
                   alt={"project Image"}
                   src={image}
