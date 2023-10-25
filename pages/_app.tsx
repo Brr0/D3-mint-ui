@@ -39,9 +39,9 @@ export default function App({ Component, pageProps }: AppProps) {
         <meta property="og:title" content={headerText} />
         <meta
           property="og:description"
-          content="Words with WYK mint website"
+          content="Decod3rs Booster Pack Mint"
         />
-        <meta name="description" content="Words with WYK mint website" />
+        <meta name="description" content="Decod3rs Booster Pack Mint" />
 
         <meta
           property="og:image"

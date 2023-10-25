@@ -207,7 +207,21 @@ export default function Home() {
           </CardHeader>
 
           <CardBody>
-            <Divider my="2px" />
+          <Center>
+              <Box
+                rounded={'lg'}
+                mt={-12}
+                pos={'relative'}>
+                <Image
+                  rounded={'lg'}
+                  height={230}
+                  objectFit={'cover'}
+                  alt={"project Image"}
+                  src={image}
+                />
+              </Box>
+            </Center>
+            <Divider my="10px" />
             <Stack divider={<StackDivider />} spacing='8'>
               {loading ? (
                 <div>

@@ -9,4 +9,4 @@ export const mintText = [
 export const image = "/logo.png"; 
 
 //website title
-export const headerText = "WORDS WITH WYK";
+export const headerText = "Decod3rs Booster Pack Mint";
